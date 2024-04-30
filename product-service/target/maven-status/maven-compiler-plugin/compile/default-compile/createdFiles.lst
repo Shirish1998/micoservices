@@ -1,0 +1,10 @@
+com\shirish\Productservice\repository\ProductRepository.class
+com\shirish\Productservice\dto\ProductResponse.class
+com\shirish\Productservice\Controller\ProductController.class
+com\shirish\Productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\shirish\Productservice\model\Product$ProductBuilder.class
+com\shirish\Productservice\ProductServiceApplication.class
+com\shirish\Productservice\services\productService.class
+com\shirish\Productservice\dto\ProductRequest.class
+com\shirish\Productservice\model\Product.class
+com\shirish\Productservice\dto\ProductResponse$ProductResponseBuilder.class
